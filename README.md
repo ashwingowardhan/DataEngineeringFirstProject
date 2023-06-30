@@ -1,6 +1,13 @@
 # DataEngineeringFirstProject
 This is my first data engineering project which I learned from Youtube tutorials
 
+### Programming Languages used
+    - Python
+    - SQL
+### Tools and technologies used
+    - PostgreSQL
+    - Jupyter Notebook
+    
 ### Description of files and folders
   
   ##### 1. "Data Model Exercise.ipynb" file
